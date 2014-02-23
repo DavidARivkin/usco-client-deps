@@ -10,9 +10,10 @@
     "xml-writer": "~1.4.1",
     "jszip": "~2.1.1",
     "q": "~0.9.6",
-    "composite-detect": "0.0.3"
+    "composite-detect": "0.0.3",
+    "minilog": "~2.0.2",
+    "three-js": "git://github.com/usco/three.js.git"
   },
   "devDependencies": {
-    "three-js": "git://github.com/usco/three.js.git"
   }
 }
